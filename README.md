@@ -1,34 +1,12 @@
-# Platform2DGame
+# 2D platform game
 
-2D Platform Game developed for Multimedia Systems Course evaluation using Unity and C#.
+My Unity project for the Multimedia Systems course. It uses C# and Unity’s 2D physics, with a player controller, enemies, levels, and scoring.
 
-## Technologies
-- Unity Engine
-- C# Programming
-- 2D Sprites/Animation
-- Unity Physics2D
+## Open the project
 
-## Features
-- Platform mechanics
-- Character controller
-- Enemy AI
-- Level design
-- Score system
+Open the repository as a Unity project and run a scene in the editor.
 
-## Setup
-1. Unity 2D installed
-2. Clone repository
-3. Open in Unity
-4. Build/Run game
+- Arrow keys — move
+- Space — jump
 
-## Project Structure
-Assets/
-├── Scripts/
-├── Sprites/
-├── Animations/
-├── Scenes/
-└── Prefabs/
-
-## Controls
-- Arrow Keys: Movement
-- Space: Jump
+Scripts, sprites, animations, scenes, and prefabs are under `Assets/`.
